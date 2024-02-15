@@ -1,0 +1,834 @@
+{
+  "examples": [
+    {
+      "content": "As the sun rises over the horizon, illuminating the asphalt with a golden hue, I step into my Audi, feeling the luxury envelop me like a warm embrace. The sleek lines of the GMC catch my eye as I cruise down the highway, passing by Honda Civics and Lucid electric cars alike. Each vehicle tells a story of innovation and engineering excellence, from the Nissan Leaf's eco-friendly design to the raw power of a McLaren supercar. Volkswagen, Subaru, and Lincoln share the road with me, their names synonymous with quality and reliability. As I navigate the city streets, I can't help but appreciate the attention to detail in every Bentley and Chevrolet I pass. Ford trucks rumble by, a testament to American craftsmanship and durability, while Toyotas and Mercedes-Benzes glide effortlessly through traffic. In this world of automotive marvels, there's a car for every taste and preference, whether it's the rugged versatility of a Jeep Wrangler or the timeless elegance of a Porsche 911.",
+      "annotations": [
+        {
+          "start": 17,
+          "end": 21,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 17,
+          "end": 21,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 196,
+          "end": 202,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 232,
+          "end": 237,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 249,
+          "end": 254,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 255,
+          "end": 263,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 354,
+          "end": 360,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 410,
+          "end": 417,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 452,
+          "end": 459,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 470,
+          "end": 474,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 577,
+          "end": 581,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 614,
+          "end": 620,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 630,
+          "end": 637,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 642,
+          "end": 651,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 660,
+          "end": 664,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 931,
+          "end": 935,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 936,
+          "end": 944,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 975,
+          "end": 982,
+          "tag_name": "MakeName"
+        }
+      ]
+    },
+    {
+      "content": "Positive user reviews flood the internet, praising the user-friendly design and knowledgeable customer service of car dealerships across the country. Patients find valuable insights in online forums, sharing their experiences with seamless transactions and efficient maintenance. From transparent pricing to detailed information about features and options, buyers are delighted by the competitive offerings from automotive manufacturers. Satisfactory experiences abound, with user-centric approaches leading to convenient financing options and effective after-sales support. Informative websites and professional reviews help prospective buyers make informed decisions, while helpful sales representatives guide them through the purchasing process. Accommodating service centers ensure that every customer leaves satisfied, with impressive attention to detail and streamlined procedures. Recommendations spread like wildfire, with exceptional vehicles earning accolades for outstanding performance and reliability. As the automotive industry evolves, so too do the standards for excellence, setting the bar higher for future innovations.",
+      "annotations": [
+        {
+          "start": 0,
+          "end": 8,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 9,
+          "end": 13,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 55,
+          "end": 68,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 159,
+          "end": 163,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 308,
+          "end": 316,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 317,
+          "end": 328,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 385,
+          "end": 396,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 438,
+          "end": 450,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 476,
+          "end": 488,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 511,
+          "end": 521,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 621,
+          "end": 625,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 676,
+          "end": 683,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 749,
+          "end": 762,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 829,
+          "end": 839,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 853,
+          "end": 859,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 864,
+          "end": 875,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 931,
+          "end": 942,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 974,
+          "end": 985,
+          "tag_name": "UserReviews"
+        }
+      ]
+    },
+    {
+      "content": "The Audi A3 and A4, known for their refined elegance and superior performance, stand as symbols of luxury and sophistication on the open road. Meanwhile, the rugged A4 Allroad and versatile A5 Sportback cater to adventurers and thrill-seekers alike, offering unmatched versatility and style. As the sun sets over the city skyline, casting long shadows across the asphalt, the A6 and A7 emerge, their sleek silhouettes cutting through the night with effortless grace. At the pinnacle of automotive engineering, the A8 reigns supreme, a beacon of innovation and luxury in a sea of ordinary sedans. But it's not just about luxury; it's about performance and reliability too. The Audi Q3 and Q5 SUVs offer unparalleled comfort and capability, while the Q7 and Q8 command respect with their imposing presence and advanced technology. From the race track to the open highway, Audi continues to push the boundaries of automotive excellence, delivering cars that inspire confidence and excitement with every journey.",
+      "annotations": [
+        {
+          "start": 4,
+          "end": 8,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 79,
+          "end": 84,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 168,
+          "end": 175,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 193,
+          "end": 202,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 259,
+          "end": 268,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 308,
+          "end": 312,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 308,
+          "end": 312,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 449,
+          "end": 459,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 579,
+          "end": 587,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 702,
+          "end": 714,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 676,
+          "end": 680,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 870,
+          "end": 874,
+          "tag_name": "MakeName"
+        }
+      ]
+    },
+    {
+      "content": "The Chevrolet Camaro, a timeless classic with a legacy of speed and power, roars to life as its V8 engine ignites, sending shivers down the spine of anyone within earshot. Meanwhile, the Chevrolet Corvette, a true icon of American muscle, tears down the highway with unmatched ferocity, leaving all who witness it in awe of its sheer performance. But Chevrolet isn't just about raw power; it's also about practicality and versatility. The Chevrolet Silverado and Colorado trucks are renowned for their rugged durability and impressive towing capacity, making them the perfect companions for work and play alike. And let's not forget about the Chevrolet Equinox and Traverse SUVs, which offer comfort and convenience in equal measure, making family road trips a breeze. With a lineup that spans from compact cars to full-size trucks, Chevrolet truly has something for everyone, embodying the spirit of American ingenuity and innovation.",
+      "annotations": [
+        {
+          "start": 4,
+          "end": 13,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 48,
+          "end": 54,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 187,
+          "end": 196,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 267,
+          "end": 276,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 351,
+          "end": 360,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 439,
+          "end": 448,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 449,
+          "end": 458,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 463,
+          "end": 471,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 524,
+          "end": 534,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 643,
+          "end": 652,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 653,
+          "end": 660,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 665,
+          "end": 673,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 748,
+          "end": 752,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 833,
+          "end": 842,
+          "tag_name": "MakeName"
+        }
+      ]
+    },
+    {
+      "content": "Ford has long been synonymous with the American automotive industry, with a legacy that spans over a century of innovation and excellence. From the iconic Ford Mustang, a symbol of freedom and adventure, to the rugged Ford F-150, the best-selling truck in America for over four decades, Ford's lineup is as diverse as it is impressive. But it's not just about trucks and muscle cars; Ford also offers a wide range of sedans, SUVs, and electric vehicles to suit every need and lifestyle. The Ford Explorer and Escape SUVs are perfect for families on the go, with spacious interiors and advanced safety features that provide peace of mind on every journey. And with the introduction of the all-electric Ford Mustang Mach-E, Ford is leading the charge towards a greener, more sustainable future, without compromising on performance or style. With a commitment to innovation and a dedication to quality, Ford continues to push the boundaries of what's possible in the world of automotive engineering.",
+      "annotations": [
+        {
+          "start": 0,
+          "end": 4,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 76,
+          "end": 82,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 94,
+          "end": 98,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 94,
+          "end": 98,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 155,
+          "end": 159,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 218,
+          "end": 222,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 247,
+          "end": 252,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 268,
+          "end": 272,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 268,
+          "end": 272,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 384,
+          "end": 388,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 408,
+          "end": 413,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 435,
+          "end": 443,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 491,
+          "end": 495,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 496,
+          "end": 504,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 509,
+          "end": 515,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 701,
+          "end": 705,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 706,
+          "end": 713,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 722,
+          "end": 726,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 742,
+          "end": 748,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 900,
+          "end": 904,
+          "tag_name": "MakeName"
+        }
+      ]
+    },
+    {
+      "content": "Toyota, a name synonymous with reliability and durability, has been a staple of the automotive industry for decades. From the compact Corolla to the rugged Tacoma pickup truck, Toyota offers a diverse lineup of vehicles that cater to a wide range of needs and preferences. But it's not just about practicality; Toyota also delivers on style and performance, with models like the Camry and Avalon setting the standard for midsize sedans everywhere. And let's not forget about the hybrid revolution that Toyota helped pioneer, with models like the Prius and RAV4 Hybrid leading the charge towards a greener, more sustainable future. With a commitment to quality and innovation, Toyota continues to push the boundaries of what's possible in the world of automotive engineering, ensuring that drivers everywhere can enjoy the peace of mind that comes with owning a Toyota.",
+      "annotations": [
+        {
+          "start": 0,
+          "end": 6,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 134,
+          "end": 141,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 156,
+          "end": 162,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 163,
+          "end": 169,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 177,
+          "end": 183,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 241,
+          "end": 246,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 311,
+          "end": 317,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 379,
+          "end": 384,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 408,
+          "end": 416,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 479,
+          "end": 485,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 502,
+          "end": 508,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 546,
+          "end": 551,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 556,
+          "end": 560,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 561,
+          "end": 567,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 580,
+          "end": 586,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 676,
+          "end": 682,
+          "tag_name": "MakeName"
+        }
+      ]
+    },
+    {
+      "content": "As the sun sets over the rugged terrain of the American West, casting long shadows across the desert landscape, a Jeep Wrangler emerges from the dust, its iconic silhouette a symbol of freedom and adventure. Meanwhile, the Jeep Grand Cherokee, with its luxurious interior and rugged capabilities, conquers rocky trails and city streets alike with ease. But Jeep isn't just about off-road prowess; it's also about practicality and versatility. The Jeep Compass and Renegade offer compact size and fuel efficiency without sacrificing capability, making them perfect companions for urban exploration. And with the introduction of the all-electric Jeep Wrangler 4xe, Jeep is leading the charge towards a greener, more sustainable future, without compromising on performance or capability. With a legacy that spans over eight decades of innovation and excellence, Jeep continues to push the boundaries of what's possible in the world of automotive engineering, ensuring that drivers everywhere can experience the freedom and adventure that only a Jeep can provide.",
+      "annotations": [
+        {
+          "start": 16,
+          "end": 20,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 16,
+          "end": 20,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 32,
+          "end": 39,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 114,
+          "end": 118,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 119,
+          "end": 127,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 223,
+          "end": 227,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 228,
+          "end": 233,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 357,
+          "end": 361,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 447,
+          "end": 451,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 452,
+          "end": 459,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 464,
+          "end": 472,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 579,
+          "end": 584,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 644,
+          "end": 648,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 649,
+          "end": 657,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 663,
+          "end": 667,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 683,
+          "end": 689,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 792,
+          "end": 798,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 810,
+          "end": 814,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 810,
+          "end": 814,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 859,
+          "end": 863,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 1042,
+          "end": 1046,
+          "tag_name": "MakeName"
+        }
+      ]
+    },
+    {
+      "content": "From the sleek lines of the Porsche 911 to the muscular stance of the Cayenne SUV, Porsche has long been synonymous with performance and luxury. But it's not just about speed; Porsche also delivers on style and innovation, with models like the Panamera and Macan setting the standard for luxury sedans and SUVs everywhere. And let's not forget about the all-electric Taycan, which combines blistering acceleration with zero emissions, proving that performance and sustainability can go hand in hand. With a commitment to excellence and a dedication to craftsmanship, Porsche continues to push the boundaries of what's possible in the world of automotive engineering, ensuring that drivers everywhere can experience the thrill of driving a Porsche.",
+      "annotations": [
+        {
+          "start": 28,
+          "end": 35,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 70,
+          "end": 77,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 83,
+          "end": 90,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 176,
+          "end": 183,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 244,
+          "end": 252,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 257,
+          "end": 262,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 275,
+          "end": 283,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 567,
+          "end": 574,
+          "tag_name": "MakeName"
+        }
+      ]
+    },
+    {
+      "content": "Cadillac, a name synonymous with luxury and innovation, has been a leader in the automotive industry for over a century. From the iconic Cadillac Escalade, a symbol of power and prestige, to the sleek Cadillac CT5, Cadillac offers a diverse lineup of vehicles that cater to a wide range of needs and preferences. But it's not just about style; Cadillac also delivers on performance and technology, with models like the CT6 and XT6 setting the standard for luxury sedans and SUVs everywhere. And let's not forget about the all-electric Cadillac Lyriq, which combines cutting-edge technology with zero emissions, proving that luxury and sustainability can go hand in hand. With a commitment to excellence and a dedication to innovation, Cadillac continues to push the boundaries of what's possible in the world of automotive engineering, ensuring that drivers everywhere can experience the luxury and performance that only a Cadillac can provide.",
+      "annotations": [
+        {
+          "start": 0,
+          "end": 8,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 105,
+          "end": 109,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 105,
+          "end": 109,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 137,
+          "end": 145,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 201,
+          "end": 209,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 215,
+          "end": 223,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 281,
+          "end": 286,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 344,
+          "end": 352,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 443,
+          "end": 451,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 535,
+          "end": 543,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 735,
+          "end": 743,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 923,
+          "end": 931,
+          "tag_name": "MakeName"
+        }
+      ]
+    },
+    {
+      "content": "As the sun rises over the city skyline, casting long shadows across the bustling streets below, a Tesla Model S emerges from the morning fog, its sleek silhouette cutting through the urban landscape with effortless grace. Meanwhile, the Model 3 and Model Y zip through traffic with silent precision, their all-electric powertrains delivering blistering acceleration and zero emissions. But Tesla isn't just about cars; it's also about innovation and sustainability. The Model X and Model Y SUVs offer spacious interiors and advanced autopilot features, making them perfect companions for family road trips and daily commutes alike. And with the introduction of the Cybertruck, Tesla is pushing the boundaries of what's possible in the world of automotive engineering, with its futuristic design and unparalleled performance. With a commitment to excellence and a dedication to sustainability, Tesla continues to lead the charge towards a greener, more sustainable future, ensuring that drivers everywhere can experience the thrill of driving an electric car without compromising on style or performance.",
+      "annotations": [
+        {
+          "start": 17,
+          "end": 21,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 17,
+          "end": 21,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 98,
+          "end": 103,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 104,
+          "end": 109,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 183,
+          "end": 188,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 204,
+          "end": 214,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 237,
+          "end": 242,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 249,
+          "end": 254,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 390,
+          "end": 395,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 470,
+          "end": 475,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 482,
+          "end": 487,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 595,
+          "end": 599,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 677,
+          "end": 682,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 799,
+          "end": 811,
+          "tag_name": "UserReviews"
+        },
+        {
+          "start": 893,
+          "end": 898,
+          "tag_name": "MakeName"
+        },
+        {
+          "start": 921,
+          "end": 927,
+          "tag_name": "ModelName"
+        },
+        {
+          "start": 1045,
+          "end": 1053,
+          "tag_name": "ModelName"
+        }
+      ]
+    }
+  ]
+}
